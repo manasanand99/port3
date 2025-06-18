@@ -1,0 +1,242 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Manas Anand Nissankara
+Manas Anand Nissankara
+Data Scientist/ Data Engineer
+
+Show Contacts
+
+Email
+manasanand99@gmail.com
+
+Phone
++1 (713) 367-6027
+
+Birthday
+Sept 09, 1999
+
+Location
+Bellevue, Washington, USA
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm a Data Scientist and Data Engineer with a passion for turning complex data challenges into clear, actionable insights and efficient data solutions. I specialize in building robust data pipelines, developing predictive models, and transforming raw data into meaningful stories that drive business decisions.
+
+My role is to ensure that data systems are reliable, scalable and also aligned with business needs. I bring a thoughtful, detail-oriented approach to every project whether it's engineering a real-time data workflow or training a machine learning model. My goal is to make data accessible, impactful, and easy to interpret for stakeholders across the organization.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Data Analysis
+Analysis of complex datasets to uncover trends, patterns, and actionable insights.
+
+alt = Web development icon
+Machine Learning
+Development of predictive models for real world problems.
+
+alt = mobile app icon
+Data Engineering
+Design and implementation of scalable ETL/ELT data pipelines at cloud
+
+alt = camera icon
+Data Visualization
+Creation of dynamic, interactive dashboards and reports.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Dheeraj Reddy
+Working with Manas was a game-changer. He turned complex data into clear, actionable insights and delivered high-quality models that had a real business impact. His technical skills and problem-solving mindset are truly top-notch.
+
+alt = Jessica miller
+Kalyan Shiva
+Collaborating with Manas on our research project was an outstanding experience. His analytical depth, attention to detail, and commitment to scientific rigor played a crucial role in getting our work published. A truly reliable and insightful partner in research.
+
+alt = Emily evans
+Abrar Pasha
+Manas technical expertise and innovative thinking significantly enhanced the quality of our research. His ability to break down complex problems and contribute creative solutions was instrumental to the success of our publication.
+
+alt = Henry william
+Vardhan Sai
+It was a great experience working with Manas on our data science project. His expertise in data preprocessing, modeling, and analytics brought clarity to the work. He consistently contributed thoughtful insights and was an invaluable collaborator throughout the project.
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University of Houston
+2022-2023
+Masters of Science in Engineering Data Science.
+
+Jawaharlal Nehru Technological University Hyderabad
+2016 — 2020
+Bachelors of Technology in Electronics and Communication Engineering.
+
+Experience
+
+Data Scientist
+Jun 2025 — Present
+
+Data Analyst
+Dec 2024 — Jun 2025
+Implemented ARIMA models to forecast customer visits and reduced over and under stocking of retail inventory
+
+MTX Group Inc
+May 2024 — Oct 2024
+Built Marketing Mix Models using regression techniques, driving measurable ROI improvements in digital campaigns.
+
+University of Houston
+Oct 2022 — Jan 2023
+Built classification and recommendation systems that improved personalized marketing efforts, driving 18% higher engagement rate in email campaigns.
+
+LTI Mindtree
+Oct 2020 — Jul 2022
+Conducted analysis of contract-to-employee hours ratios, identifying regional trends that informed staffing strategies for healthcare facilities.
+
+My skills
+
+SQL
+80%
+Python
+70%
+Snowflake
+80%
+AWS
+60%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
